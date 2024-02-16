@@ -1,5 +1,5 @@
-# HiScanner
-Host the Scanner visualization tool
+# ViScanner
+Host the HiScanner visualization tool
 
 ## Available Scripts
 

@@ -1,6 +1,7 @@
 {
-  "name": "HiScanner",
-  "version": "0.1.0",
+  "name": "viscanner",
+  "version": "0.1.1",
+  "homepage": "https://parklab.github.io/ViScanner",
   "private": true,
   "dependencies": {
     "@zip.js/zip.js": "^2.7.32",

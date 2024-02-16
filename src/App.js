@@ -23,7 +23,7 @@ function App() {
 
       <div className="container mt-5">
         <h2 id="variant-view" className="text-center">
-          Scanner output visualization
+          HiScanner output visualization
         </h2>
         <CnvTable />
 
@@ -47,7 +47,7 @@ function App() {
       <div className="container-fluid bg-light mt-5 py-4 text-center">
         <div className="mb-1">
           For support or questions, please open an issue on our{" "}
-          <a href="https://github.com/parklab/scanner">GitHub repository</a>.
+          <a href="https://github.com/parklab/hiscanner">GitHub repository</a>.
         </div>
       </div>
     </div>

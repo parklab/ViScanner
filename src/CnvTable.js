@@ -230,7 +230,7 @@ export class CnvTable extends React.PureComponent {
               </span>
               <br />
               <span>
-                Please upload the visualization output file from Scanner
+                Please upload the visualization output file from HiScanner
               </span>
             </td>
           </tr>
@@ -277,7 +277,7 @@ export class CnvTable extends React.PureComponent {
           <div className="col-12 ">
             <div className="text-center">
               <div className="my-1">
-                Scanner visualization output file (required)
+                HiScanner visualization output file (required)
               </div>
               <Uploader populateTable={(d) => this.populateTable(d)} />
             </div>
