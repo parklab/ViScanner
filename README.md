@@ -3,7 +3,9 @@ This tool was designed to visualize copy number alterations in single cells. It 
 
 ## Expected file format
 
-The tool works out of the box with the visualization output file from HiScanner, which needs to be loaded into the ViScanner website (https://compbio.hms.harvard.edu/ViScanner/). However, you can also use it with your own data (that is not output of HiScanner). The tool expects a **zip-compressed file** that contains the following 3 text files:
+The tool works out of the box with the visualization output file from HiScanner, which needs to be loaded into the ViScanner website (https://compbio.hms.harvard.edu/ViScanner/). However, you can also use it with your own data (that is not output of HiScanner). 
+
+Important: The tool expects a **zip-compressed file** that contains the following 3 text files:
 
 ### cna_long.txt
 
